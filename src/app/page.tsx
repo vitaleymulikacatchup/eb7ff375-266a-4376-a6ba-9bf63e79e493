@@ -28,7 +28,7 @@ export default function Home() {
       </div>
       <div id="hero" data-section="hero" className="scroll-mt-24">
         <SimpleHero
-          title="Welcome to MemePulse"
+          title="Yo Man"
           description="Experience the future of memecoins with transparency and community engagement."
           primaryButtonText="Buy MemePulse"
           backgroundImage="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/sleek-futuristic-background-in-16-9-prem-1759832464986-2b0dc7e6.jpg"

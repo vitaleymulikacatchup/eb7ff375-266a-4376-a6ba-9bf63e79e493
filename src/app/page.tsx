@@ -1,4 +1,4 @@
-use client
+"use client";
 import { SiteTheme, SiteThemeProvider } from '@/components/sections/ThemeProvider';
 import NavbarStyleApple from '@/components/navigation/NavbarStyleApple/NavbarStyleApple';
 import SimpleHero from '@/components/sections/layouts/hero/FrameHero';
@@ -19,7 +19,7 @@ export default function Home() {
   return (
     <SiteThemeProvider theme={theme}>
       <div id="nav" data-section="nav">
-        <NavbarStyleApple 
+        <NavbarStyleApple
           logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/design-a-simple-high-contrast-logo-for-m-1759832468719-fc8b0e1e.jpg"
           logoAlt="MemePulse Logo"
           brandName="MemePulse"
@@ -36,7 +36,7 @@ export default function Home() {
         />
       </div>
       <div id="about" data-section="about" className="scroll-mt-24">
-        <SplitAbout 
+        <SplitAbout
           description="MemePulse is a futuristic memecoin that aims to bring fun and profitability to the crypto community while emphasizing transparency and usability."
         />
       </div>

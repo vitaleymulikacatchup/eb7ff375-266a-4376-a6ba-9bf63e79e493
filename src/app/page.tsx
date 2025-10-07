@@ -28,7 +28,7 @@ export default function Home() {
       </div>
       <div id="hero" data-section="hero" className="scroll-mt-24">
         <SimpleHero
-          title="Welcome to MemePulse"
+          title="Yo Yo Man"
           description="Experience the future of memecoins with transparency and community engagement."
           primaryButtonText="Buy MemePulse"
           backgroundImage="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/sleek-futuristic-background-in-16-9-prem-1759832464986-2b0dc7e6.jpg"
@@ -60,9 +60,9 @@ export default function Home() {
       <div id="roadmap" data-section="roadmap" className="scroll-mt-24">
         <StackRoadmapTimeline
           items={[
-            { id: 1, title: "Idea Phase", description: "Research and brainstorming to develop the concept.", image: "https://example.com/image1.jpg" },
-            { id: 2, title: "Token Launch", description: "Launch of the MemePulse token with community engagement.", image: "https://example.com/image2.jpg" },
-            { id: 3, title: "Market Expansion", description: "Strategic partnerships and marketing initiatives to grow the community.", image: "https://example.com/image3.jpg" }
+            { id: 1, title: "Idea Phase", description: "Research and brainstorming to develop the concept.", image: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/minimal-vector-mascot-for-memepulse-wais-1759832467175-4fface53.jpg" },
+            { id: 2, title: "Token Launch", description: "Launch of the MemePulse token with community engagement.", image: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/minimal-vector-mascot-for-memepulse-wais-1759832467175-4fface53.jpg" },
+            { id: 3, title: "Market Expansion", description: "Strategic partnerships and marketing initiatives to grow the community.", image: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/minimal-vector-mascot-for-memepulse-wais-1759832467175-4fface53.jpg" }
           ]}
         />
       </div>

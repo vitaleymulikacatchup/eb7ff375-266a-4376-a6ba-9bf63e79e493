@@ -59,7 +59,7 @@ export default function Home() {
       </div>
       <div id="roadmap" data-section="roadmap" className="scroll-mt-24">
         <StackRoadmapTimeline
-          items={[{ stepNumber: "1", title: "Idea Phase", description: "Research and brainstorming to develop the concept." }, { stepNumber: "2", title: "Token Launch", description: "Launch of the MemePulse token with community engagement." }, { stepNumber: "3", title: "Market Expansion", description: "Strategic partnerships and marketing initiatives to grow the community." }]}
+          items={[{ title: "Idea Phase", description: "Research and brainstorming to develop the concept." }, { title: "Token Launch", description: "Launch of the MemePulse token with community engagement." }, { title: "Market Expansion", description: "Strategic partnerships and marketing initiatives to grow the community." }]}
         />
       </div>
       <div id="footer" data-section="footer" className="scroll-mt-24">
